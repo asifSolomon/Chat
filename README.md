@@ -18,7 +18,7 @@ Multi-user chat application in python
   * Forgot password
 
 # Sign up
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 # Sign in
 ![img_3.png](img_3.png)
@@ -27,4 +27,4 @@ Multi-user chat application in python
 ![img_2.png](img_2.png)
 
 # Room
-![img_1.png](img_1.png)
+![img.png](img.png)
