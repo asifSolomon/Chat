@@ -1,2 +1,30 @@
 # Chat
-multi user chat application in python
+Multi-user chat application in python
+
+#Technologies
+* socket
+* PyQt5
+* SQLite
+* RSA
+* threading
+* select
+
+#Features
+* Multiple clients
+* Multiple chat rooms
+* Authentication system
+  * Login
+  * Sign up
+  * Forgot password
+
+#Sign up
+![img.png](img.png)
+
+#Sign in
+![img_3.png](img_3.png)
+
+#Choose room
+![img_2.png](img_2.png)
+
+#Room
+![img_1.png](img_1.png)
