@@ -1,7 +1,7 @@
 # Chat
 Multi-user chat application in python
 
-#Technologies
+# Technologies
 * socket
 * PyQt5
 * SQLite
@@ -9,7 +9,7 @@ Multi-user chat application in python
 * threading
 * select
 
-#Features
+# Features
 * Multiple clients
 * Multiple chat rooms
 * Authentication system
